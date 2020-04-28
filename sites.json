@@ -1,0 +1,144 @@
+{
+  "total": "5",
+  "max_num_pages": 5,
+  "paged": 0,
+  "categories": {},
+  "tags": {},
+  "posts": {
+    "business": {
+      "id": 2,
+      "title": "Business",
+      "slug": "business",
+      "desc": "",
+      "excerpt": "",
+      "thumbnail_url": "https://wpmunk.com/wp-content/uploads/2019/09/business.jpg",
+      "manual_plugins": {
+        "": null
+      },
+      "demo_url": "https://demo.wpmunk.com/business/",
+      "pro": "",
+      "resources": {
+        "xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/business/wpmunk-business-no-builders-201910151152.xml",
+        "xml_placeholder_url": null,
+        "json_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/business/wpmunk-business.json",
+        "elementor_xml_url": null,
+        "elementor_xml_placeholder_url": null,
+        "elementor_json_url": null,
+        "beaver_builder_xm_url": null,
+        "beaver_builder_xml_url": null,
+        "beaver_builder_xml_placeholder_url": null,
+        "beaver_builder_json_url": null
+      },
+      "tags": [],
+      "categories": []
+    },
+    "charity": {
+      "id": 4,
+      "title": "Charity",
+      "slug": "charity",
+      "desc": "",
+      "excerpt": "",
+      "thumbnail_url": "https://wpmunk.com/wp-content/uploads/2019/09/charity.jpg",
+      "manual_plugins": {
+        "": null
+      },
+      "demo_url": "https://demo.wpmunk.com/charity/",
+      "pro": "",
+      "resources": {
+        "xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/charity/charity-wpmunk.xml",
+        "xml_placeholder_url": null,
+        "json_url": null,
+        "elementor_xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/charity/charity-wpmunk.xml",
+        "elementor_xml_placeholder_url": null,
+        "elementor_json_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/charity/charity-wpmunk.json",
+        "beaver_builder_xm_url": null,
+        "beaver_builder_xml_url": null,
+        "beaver_builder_xml_placeholder_url": null,
+        "beaver_builder_json_url": null
+      },
+      "tags": [],
+      "categories": []
+    },
+    "mechanic": {
+      "id": 5,
+      "title": "Mechanic",
+      "slug": "mechanic",
+      "desc": "",
+      "excerpt": "",
+      "thumbnail_url": "https://wpmunk.com/wp-content/uploads/2019/09/auto.jpg",
+      "manual_plugins": {
+        "": null
+      },
+      "demo_url": "https://demo.wpmunk.com/mechanic/",
+      "pro": "",
+      "resources": {
+        "xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/mechanic/carmechanic-wpmunk.xml",
+        "xml_placeholder_url": null,
+        "json_url": null,
+        "elementor_xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/mechanic/carmechanic-wpmunk.xml",
+        "elementor_xml_placeholder_url": null,
+        "elementor_json_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/mechanic/carmechanic-wpmunk.json",
+        "beaver_builder_xm_url": null,
+        "beaver_builder_xml_url": null,
+        "beaver_builder_xml_placeholder_url": null,
+        "beaver_builder_json_url": null
+      },
+      "tags": [],
+      "categories": []
+    },
+    "fitness": {
+      "id": 6,
+      "title": "Fitness",
+      "slug": "fitness",
+      "desc": "",
+      "excerpt": "",
+      "thumbnail_url": "https://wpmunk.com/wp-content/uploads/2019/09/fitness-min.png",
+      "manual_plugins": {
+        "": null
+      },
+      "demo_url": "https://demo.wpmunk.com/fitness/",
+      "pro": "",
+      "resources": {
+        "xml_url": null,
+        "xml_placeholder_url": null,
+        "json_url": null,
+        "elementor_xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/fitness/wpmunk-fitness.xml",
+        "elementor_xml_placeholder_url": null,
+        "elementor_json_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/fitness/wpmunk-fitness.json",
+        "beaver_builder_xm_url": null,
+        "beaver_builder_xml_url": null,
+        "beaver_builder_xml_placeholder_url": null,
+        "beaver_builder_json_url": null
+      },
+      "tags": [],
+      "categories": []
+    },
+    "marketer": {
+      "id": 7,
+      "title": "Marketer",
+      "slug": "marketer",
+      "desc": "",
+      "excerpt": "",
+      "thumbnail_url": "https://wpmunk.com/wp-content/uploads/2019/09/marketer.jpg",
+      "manual_plugins": {
+        "": null
+      },
+      "demo_url": "https://demo.wpmunk.com/marketer/",
+      "pro": "",
+      "resources": {
+        "xml_url": null,
+        "xml_placeholder_url": null,
+        "json_url": null,
+        "elementor_xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/marketer/wpmunk-marketer.xml",
+        "elementor_xml_placeholder_url": null,
+        "elementor_json_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/marketer/wpmunk-marketer.json",
+        "beaver_builder_xm_url": null,
+        "beaver_builder_xml_url": null,
+        "beaver_builder_xml_placeholder_url": null,
+        "beaver_builder_json_url": null
+      },
+      "tags": [],
+      "categories": []
+    }					
+  }
+}
